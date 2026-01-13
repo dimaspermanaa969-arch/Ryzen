@@ -1,0 +1,4 @@
+#include<iotstream>
+int main()
+stc:cout<<'hello,world:\n":
+retrun 0;
